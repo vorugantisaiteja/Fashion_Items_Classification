@@ -16,7 +16,6 @@ It is a dataset comprised of 60,000 small square 28×28 pixel grayscale images o
 8: Bag
 9: Ankle boot
 
-## Methodology
 ## Convolutional Neural Networks (CNNs)
 One of the interesting ways at which we can use CNNs is that we might identify the Fashion Items. As a result, the model detects the label of an item from group of different fashion items. 
 It is also important to accurately detect the fashion items and sometimes the images could be blur or sometimes it will be hard to identify the decision boundary between the background and the actual item in an image. In addition to this, there could be factors such as  color, dimensions of the image that could make detecting and classifying fashion item a challenging task.
